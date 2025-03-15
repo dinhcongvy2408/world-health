@@ -208,5 +208,4 @@ if(ncol(correlation_data_clean) > 2) {  # Có ít nhất 2 chỉ số (ngoài Co
 } else {
   cat("\nKhông đủ dữ liệu để tạo ma trận tương quan\n")
 }
-
 cat("Đã hoàn thành trực quan hóa dữ liệu!\n") 
