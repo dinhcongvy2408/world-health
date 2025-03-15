@@ -1,0 +1,9 @@
+"Indicator.Name","Số_quốc_gia","Giá_trị_nhỏ_nhất","Giá_trị_trung_bình","Độ_lệch_chuẩn","Giá_trị_lớn_nhất","Số_quan_sát","Số_giá_trị_thiếu"
+"Current health expenditure per capita (current US$)",238,4,927.202139887939,1670.61031346268,12473.79101563,5166,0
+"Hospital beds (per 1,000 people)",249,0.1,4.06463476991309,3.24425332482368,40.3154563903809,5864,0
+"Immunization, DPT (% of children ages 12-23 months)",241,0,78.4396478209625,22.2114913409401,99,9933,0
+"Life expectancy at birth, total (years)",260,11.995,64.3900955258615,11.1062071340666,85.5326829268293,16124,0
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",231,7.3,22.0117027520379,7.58122193626678,56,4620,0
+"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",231,7.4,102.036855688006,73.9150929775069,305.1,231,0
+"Mortality rate, under-5 (per 1,000 live births)",244,1.5,71.2698450046126,73.6332827313,428.7,12994,0
+"People using safely managed drinking water services (% of population)",166,1.43044680120711,67.3381550924128,30.5579141470017,100,3713,0

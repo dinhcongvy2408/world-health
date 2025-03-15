@@ -1,0 +1,255 @@
+"Indicator.Name","n","missing","mean","median","sd","min","max"
+"Net migration",16960,0,-56983.0294221698,-1063,625497.276063117,-10103029,10260160
+"Population ages 0-14 (% of total population)",16960,0,33.7887890555785,35.9625078622572,10.5155848669331,10.6990246662702,54.6980585850296
+"Population ages 0-14, female (% of female population)",16960,0,33.2564678671069,35.5497279451893,10.6283908057449,9.57056865678397,56.8729235880399
+"Population ages 0-14, male (% of male population)",16960,0,34.4366282025645,36.4343402392798,10.4998268826522,9.25825461527116,56.4803484900396
+"Population ages 00-04, female (% of female population)",16960,0,12.1860680249323,12.3616689450708,4.80273666616846,2.54948705245384,21.7607417297838
+"Population ages 00-04, male (% of male population)",16960,0,12.6189406093782,12.7055838904615,4.77566942071275,2.70022958858671,25.5743722774216
+"Population ages 05-09, female (% of female population)",16960,0,11.0082655058876,11.7962625723697,3.48390347372138,3.14494774534281,21.0634366659824
+"Population ages 05-09, male (% of male population)",16960,0,11.3957371985633,12.1252813746543,3.44135925941162,3.16582472362417,19.4158152097292
+"Population ages 10-14, female (% of female population)",16960,0,10.062134336287,10.8744510581822,2.60964663258493,3.26181890280927,19.6105428796223
+"Population ages 10-14, male (% of male population)",16960,0,10.421950394623,11.1480971441107,2.56869980488812,2.51515569706349,19.7995588196741
+"Population ages 15-19, female (% of female population)",16960,0,9.12721683274783,9.67806860869063,1.90397823499421,3.28761590543854,17.6207346634346
+"Population ages 15-19, male (% of male population)",16960,0,9.43244898252111,9.88397109866965,1.83091032378519,2.4256141025913,17.9373761169492
+"Population ages 15-64 (% of total population)",16960,0,59.6275115263898,59.4205340282695,7.01935542619386,36.4287424284172,85.249493997149
+"Population ages 15-64, female (% of female population)",16960,0,59.2928391232969,59.2161102048781,6.47611338720139,35.4804079441761,80.9924678043352
+"Population ages 15-64, male (% of male population)",16960,0,59.8826115089839,59.4552311043841,7.66860326474605,37.535607655034,89.8688491670443
+"Population ages 20-24, female (% of female population)",16960,0,8.29971004149946,8.49730890148133,1.35585046466082,2.27204106280193,18.4544199601207
+"Population ages 20-24, male (% of male population)",16960,0,8.53868509409891,8.64065723235401,1.30861272267315,3.05956634525965,17.0303180371565
+"Population ages 25-29, female (% of female population)",16960,0,7.57185271414229,7.49208812961539,1.15961641526886,1.45760624101827,18.2921495735841
+"Population ages 25-29, male (% of male population)",16960,0,7.76595096775653,7.61540702043256,1.37236876043397,2.98614849982869,19.5921516317966
+"Population ages 30-34, female (% of female population)",16960,0,6.8605778929526,6.6709279104171,1.18622451138298,1.35006655257654,15.7996485061511
+"Population ages 30-34, male (% of male population)",16960,0,7.02385405399727,6.82811753393944,1.49375163272018,2.62149724116329,18.852725834992
+"Population ages 35-39, female (% of female population)",16960,0,6.15110299043556,5.97049008434701,1.25579061134711,2.34752415458937,12.9385358554397
+"Population ages 35-39, male (% of male population)",16960,0,6.27174503808217,6.0659256357381,1.51193348573029,2.18969415684874,17.0865900580959
+"Population ages 40-44, female (% of female population)",16960,0,5.45130026497277,5.12399547587376,1.35245367761029,1.73233695652174,10.9757267106417
+"Population ages 40-44, male (% of male population)",16960,0,5.52156918462328,5.16962502691239,1.52930221206613,1.90763808784062,13.6084389069207
+"Population ages 45-49, female (% of female population)",16960,0,4.81222599719931,4.34419992402916,1.4600134379392,1.86453286537214,9.90263424011767
+"Population ages 45-49, male (% of male population)",16960,0,4.81587321823709,4.32298905350719,1.56180409342442,1.65434878371103,12.8109022290013
+"Population ages 50-54, female (% of female population)",16960,0,4.2326227478465,3.67368932582133,1.54602956818514,1.34966777408638,9.57111586847233
+"Population ages 50-54, male (% of male population)",16960,0,4.15504106839606,3.58035957086306,1.58617731617708,1.13993441339142,9.29129191334174
+"Population ages 55-59, female (% of female population)",16960,0,3.6713886390309,3.07112728657514,1.57829242179437,0.394518272425249,9.36323606579818
+"Population ages 55-59, male (% of male population)",16960,0,3.50475634622062,2.8919956959592,1.55866173746412,0.954361354856917,9.08104196816208
+"Population ages 60-64, female (% of female population)",16960,0,3.11484100246974,2.51470829894608,1.54810143210772,0.19669551534225,8.39366681292965
+"Population ages 60-64, male (% of male population)",16960,0,2.85268755505086,2.25315909902723,1.45022512947662,0.595214549482154,8.72344487282793
+"Population ages 65 and above (% of total population)",16960,0,6.58369941803177,4.46250666067256,4.71080891126853,0.862464636843677,37.3192825810471
+"Population ages 65 and above, female (% of female population)",16960,0,7.4506930095962,5.0167116686125,5.44260860884113,0.82759597640675,38.2861795237126
+"Population ages 65 and above, male (% of male population)",16960,0,5.68076028845161,3.96878941393545,3.98538822682293,0.549836218998596,36.312582781457
+"Population ages 65-69, female (% of female population)",16960,0,2.55036629507167,1.94465866348614,1.46774432106493,0.246355984397454,8.04805726908728
+"Population ages 65-69, male (% of male population)",16960,0,2.20660117971984,1.66184145125165,1.28180713044165,0.131799664509945,7.96928452885379
+"Population ages 70-74, female (% of female population)",16960,0,1.98054376025381,1.40449647260618,1.33084728624959,0.0973330737784699,7.85970649511952
+"Population ages 70-74, male (% of male population)",16960,0,1.58812929275625,1.13092901543133,1.06405186079973,0.0345502706437867,7.44562492655788
+"Population ages 75-79, female (% of female population)",16960,0,1.41014918080714,0.912510795950332,1.12100123346164,0.0701385235840785,6.66065859118121
+"Population ages 75-79, male (% of male population)",16960,0,1.02047326571607,0.683125801615179,0.801099084974098,0.0343092406221409,6.46514432530215
+"Population ages 80 and above, female (% of female population)",16960,0,1.50963377346358,0.76472012471137,1.68111061652993,0.0389061930968651,19.4941990637085
+"Population ages 80 and above, male (% of male population)",16960,0,0.865556550259452,0.486860482510037,0.956771349055041,0,16.2728476821192
+"Population, female (% of total population)",16960,0,50.0749556882809,50.3079425198039,2.43607334929714,23.8179934937608,55.9049795444806
+"Population, male (% of total population)",16960,0,49.9250443117191,49.6920574801961,2.43607334929714,44.0950204555194,76.1820065062392
+"Age dependency ratio (% of working-age population)",16930,0,70.1016385248004,68.5249717564643,20.01299341629,17.3027574453637,174.508438987093
+"Age dependency ratio, old (% of working-age population)",16930,0,10.6427453152848,7.78207059958622,6.89660072952964,1.01172351399255,74.7919267582189
+"Age dependency ratio, young (% of working-age population)",16930,0,59.3428535120271,60.3095556420686,24.2387177041949,15.2347932148262,144.877837245661
+"Population ages 0-14, female",16930,0,34167194.6887183,1026586,108625055.846269,556,983330040
+"Population ages 0-14, male",16930,0,36021103.0845836,1065337,115200419.649538,551,1045918482
+"Population ages 0-14, total",16930,0,70188297.6854105,2093225,223817231.282472,1106,2029248546
+"Population ages 15-64, female",16930,0,65848763.3779681,1965763,221196296.768944,726,2580770912
+"Population ages 15-64, male",16930,0,66865568.5574129,1951718,226308866.737491,658,2657416724
+"Population ages 15-64, total",16930,0,132714331.8785,3901626.5,447490685.495764,1383,5238187628
+"Population ages 65 and above, female",16930,0,7759772.20903721,196466,27455782.9643225,32,446891863
+"Population ages 65 and above, male",16930,0,5943848.5992912,149855.5,21393109.1277559,23,357583823
+"Population ages 65 and above, total",16930,0,13703620.7909037,346790.5,48817340.6813563,64,804475697
+"Population, female",16930,0,107775730.127998,3394696.5,352646150.912898,1433,4007523965
+"Population, male",16930,0,108830520.052156,3326539,358891233.277192,1282,4054352036
+"Population, total",16930,0,216606250.178027,6748606.5,711508293.674554,2715,8061876001
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",16695,0,72.7902081051248,62.163,50.144038530057,0.473,229.604
+"Sex ratio at birth (male births per female births)",16695,0,1.05225452792375,1.051,0.0200768735884356,0.967,1.282
+"Survival to age 65, female (% of cohort)",16695,0,69.6805580287975,73.672019,17.0706907978564,0.004444,96.45942
+"Survival to age 65, male (% of cohort)",16695,0,59.6510875643671,61.296861,16.2332906141632,9e-06,94.176469
+"Population growth (annual %)",16663,0,1.74824396862914,1.72619674936504,1.67833684772978,-27.4707864795381,21.700342942038
+"Birth rate, crude (per 1,000 people)",16300,0,28.0411480626447,26.8,12.8702975742451,4.4,58.121
+"Death rate, crude (per 1,000 people)",16282,0,10.4478963030312,9.15052751427126,5.33452914876906,0.795,103.534
+"Fertility rate, total (births per woman)",16137,0,3.89853212806983,3.441,1.96039462880883,0.701,8.864
+"Life expectancy at birth, female (years)",16124,0,66.9474183350183,69.708,11.6317568647386,12.721,88.06
+"Life expectancy at birth, male (years)",16124,0,61.969611780495,64.113,10.6828981575694,10.054,83.35
+"Life expectancy at birth, total (years)",16124,0,64.3900955258615,66.9607046441975,11.1062071340666,11.995,85.5326829268293
+"Mortality rate, adult, female (per 1,000 female adults)",15949,0,189.493519593462,157.988,112.921306450528,21.661,997.597
+"Mortality rate, adult, male (per 1,000 male adults)",15949,0,268.152706768594,251.118,118.872308956981,42.594,999.942
+"Mortality rate, under-5 (per 1,000 live births)",12994,0,71.2698450046126,43,73.6332827313,1.5,428.7
+"Mortality rate, infant (per 1,000 live births)",12898,0,47.8055274498779,34,43.0172350581928,1.3,272
+"Mortality rate, infant, female (per 1,000 live births)",12898,0,43.7457284092013,30.5,40.1180106374244,1.2,253.5
+"Mortality rate, infant, male (per 1,000 live births)",12898,0,51.6544985688344,37.1436690988174,45.8128036770395,1.4,289.2
+"Mortality rate, under-5, female (per 1,000 live births)",12898,0,66.1564522318832,38.7,69.7411876245692,1.3,417.1
+"Mortality rate, under-5, male (per 1,000 live births)",12898,0,74.1710564585016,46,74.6628454091021,1.6,434.8
+"Number of infant deaths",12816,0,208056.235877029,6008,768422.51811896,0,8869350
+"Number of under-five deaths",12451,0,301611.214199663,7918,1109943.97060253,0,12831840
+"Mortality rate, neonatal (per 1,000 live births)",11252,0,22.7442773990394,18.8,18.0942778644253,0.7,106.3
+"Number of neonatal deaths",11087,0,136121.789392983,3950,486379.692099309,0,5210825
+"Immunization, DPT (% of children ages 12-23 months)",9933,0,78.4396478209625,87,22.2114913409401,0,99
+"Immunization, measles (% of children ages 12-23 months)",9810,0,77.2400754889282,85,22.1074703095635,0.0522579232413606,99
+"Refugee population by country or territory of asylum",8719,0,892366.392017433,20413,2631715.33386451,5,37573655
+"Refugee population by country or territory of origin",8446,0,785609.810442813,3940.5,2654162.22448247,5,37573655
+"Women's share of population ages 15+ living with HIV (%)",6364,0,38.9310993226006,38.0764868766017,16.8400850351958,0,100
+"Immunization, HepB3 (% of one-year-old children)",6343,0,73.9721389530101,87,29.9216239270851,0,99
+"People using at least basic sanitation services (% of population)",5890,0,72.7513068802696,85.3754678476997,28.7784136458835,2.79389711000458,100
+"People using at least basic drinking water services (% of population)",5870,0,85.5657274760081,93.4739292419326,17.6709803983744,18.6823027003951,100
+"Hospital beds (per 1,000 people)",5864,0,4.06463476991309,3.03,3.24425332482368,0.1,40.3154563903809
+"Prevalence of HIV, total (% of population ages 15-49)",5838,0,1.73014836909359,0.323900167407687,3.8359146469552,0.1,29.9
+"People practicing open defecation (% of population)",5825,0,9.62647340589685,1.43484200683273,15.5519502997808,0,87.4509302151028
+"Incidence of tuberculosis (per 100,000 people)",5429,0,126.391392521643,51,179.738222059266,0,1590
+"Newborns protected against tetanus (%)",5382,0,68.6228299975556,77.8816153783121,24.8687478251987,1,100
+"Prevalence of HIV, female (% ages 15-24)",5357,0,1.20644022755064,0.1,2.88026788954115,0.1,24.9
+"Prevalence of HIV, male (% ages 15-24)",5357,0,0.511819637193888,0.1,0.974268331954505,0.1,8.9
+"Tuberculosis case detection rate (%, all forms)",5221,0,72.7507374066271,80,19.0097038622705,0,240
+"People using at least basic drinking water services, urban (% of urban population)",5210,0,92.9422693854196,96.6106418757516,8.74667743402665,48.0642368390066,100
+"People using at least basic sanitation services, urban (% of urban population)",5204,0,77.3810453640396,87.8880514486642,24.2778197367885,8.99640314075445,100
+"People practicing open defecation, urban (% of urban population)",5203,0,3.33743525971633,0.644053906542069,6.52721919758945,0,63.2803768808112
+"Current health expenditure (% of GDP)",5167,0,6.20058118787058,5.44398975,2.79051875987763,1.10720015,24.28305244
+"Current health expenditure per capita (current US$)",5166,0,927.202139887939,246.729577420291,1670.61031346268,4,12473.79101563
+"Current health expenditure per capita, PPP (current international $)",5165,0,1164.69988191179,533.794115407799,1591.93448858524,6.34314327219412,12473.7910779276
+"Out-of-pocket expenditure per capita, PPP (current international $)",5165,0,260.390178204533,177.720319258772,264.371234207015,0,2003.4931395223
+"Domestic general government health expenditure (% of GDP)",5154,0,3.26616705117382,2.69072714412932,2.31301645069951,0.06221094,22.25426292
+"Domestic general government health expenditure (% of current health expenditure)",5154,0,50.0722150446727,50.9501606,20.9765531760796,0.89142376,99.46151733
+"Domestic private health expenditure (% of current health expenditure)",5154,0,41.9992812386854,41.961503985,18.5621129187065,0.51962489,89.47555542
+"Domestic general government health expenditure per capita (current US$)",5153,0,614.316527373365,123,1181.32102417448,0.15160967,7871
+"Domestic private health expenditure per capita (current US$)",5153,0,291.648214748952,90.67849817,588.552300858279,1.58256257,6951.10264578
+"Out-of-pocket expenditure (% of current health expenditure)",5153,0,34.0408490025236,32.41083908,18.8688115025368,0.06,86.49804688
+"Domestic general government health expenditure per capita, PPP (current international $)",5152,0,746.055541754686,266.026964267081,1132.2588789987,0.269186287022635,7889.03001082263
+"Domestic private health expenditure per capita, PPP (current international $)",5152,0,387.92130680836,215.640889805713,554.015248541996,2.53107530008814,5739.75899737712
+"Out-of-pocket expenditure per capita (current US$)",5152,0,179.376468031761,72,260.091725641287,0,2474.43270121
+"Incidence of HIV, all (per 1,000 uninfected population)",5074,0,1.165719438821,0.19063749030552,2.81015319906079,0.01,26.57
+"Physicians (per 1,000 people)",5064,0,1.66602937108405,1.39,1.40586668664774,0.004,8.427
+"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",5024,0,1.95361016303324,0.32,5.06194892231708,0.01,52.25
+"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)",4993,0,1.86434003187855,0.28,4.85235777388146,0.01,53.38
+"People using at least basic sanitation services, rural (% of rural population)",4942,0,61.8000143532969,68.600135029622,32.2039475747196,0,100
+"People practicing open defecation, rural (% of rural population)",4912,0,16.809837936863,6.55140196850892,21.8290343867277,0,99.5011545476691
+"People using at least basic drinking water services, rural (% of rural population)",4911,0,75.7707518545425,83.1519833984671,23.1550168313171,5.68518194165425,100
+"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",4899,0,5.41731908497163,4.83,3.95871680134795,0,19.4
+"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",4899,0,2.24159661129079,1.88,1.80488790362474,0,8.68
+"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",4899,0,8.74750646008713,7.91,6.33565442441557,0,31.05
+"Lifetime risk of maternal death (%)",4893,0,0.95201319767711,0.19055696592969,1.56959786125312,0.00150430216277159,11.355376303694
+"Lifetime risk of maternal death (1 in: rate varies by country)",4893,0,2693.86347843859,520,4940.82132434656,9,66000
+"Maternal mortality ratio (modeled estimate, per 100,000 live births)",4893,0,200.862660944206,74,266.880354870975,1,1687
+"Number of maternal deaths",4893,0,20020.0566114858,240,60817.8996608167,0,447000
+"Prevalence of undernourishment (% of population)",4805,0,11.1024180843625,7.1,10.5345534260426,2.5,71.4
+"Prevalence of overweight (modeled estimate, % of children under 5)",4738,0,6.86407271415947,6.1,4.14981474083259,0.7,29.8
+"Prevalence of anemia among children (% of children ages 6-59 months)",4736,0,36.881129466269,31.7,20.1057575292716,5.8,88.4
+"Prevalence of anemia among non-pregnant women (% of women ages 15-49)",4736,0,28.1410593866089,26.8,13.155804707284,7,67
+"Prevalence of anemia among pregnant women (%)",4736,0,33.1273597719285,31.4,12.7840554506647,9.1,61.6
+"Prevalence of anemia among women of reproductive age (% of women ages 15-49)",4736,0,28.4238629545009,27.1282324538596,13.2087159654999,7.3,66.1
+"Tuberculosis treatment success rate (% of new cases)",4720,0,78.3603813559322,82,14.8280959249314,0,100
+"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",4701,0,22.1676972007779,20.4,14.3535678966086,0.9,63.1
+"Mortality caused by road traffic injury (per 100,000 population)",4629,0,18.2206124539105,17.6007391965402,8.49169013100802,0,64.6
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",4620,0,22.0117027520379,22,7.58122193626678,7.3,56
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",4620,0,18.5964250376551,18.4047865169741,7.05806108706526,4.4,47.8
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)",4620,0,25.5917091474456,24.9,8.964469915827,9.6,64.1
+"Mortality rate attributed to unintentional poisoning (per 100,000 population)",4620,0,1.44332377514658,0.9,1.40936316277915,0,9.4
+"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",4620,0,0.99687120380767,0.6,0.973626010555939,0,6.9
+"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",4620,0,1.9058870122609,1.2,2.00168025144604,0,15.4
+"Suicide mortality rate (per 100,000 population)",4620,0,10.5178442488886,8.45964972738721,8.22273252817739,0,92.6
+"Suicide mortality rate, female (per 100,000 female population)",4620,0,5.16982751389665,4.3,3.73757753398778,0,39.5
+"Suicide mortality rate, male (per 100,000 male population)",4620,0,16.0128236091932,12.2,13.715295934566,0,147.8
+"Domestic general government health expenditure (% of general government expenditure)",4509,0,10.1014774018434,9.52143383,4.90050370270506,0.73440909,33.09796906
+"External health expenditure (% of current health expenditure)",4500,0,9.09903879599675,2.051318645,14.0096091234249,0,81.58046722
+"External health expenditure per capita (current US$)",4499,0,11.9654508755754,2.7474428,38.305168963243,0,498.17725041
+"External health expenditure per capita, PPP (current international $)",4498,0,20.1397048211582,6.91319637283213,45.097413765445,0,592.760881663387
+"Adults (ages 15-49) newly infected with HIV",4406,0,23739.0149795733,1000,164413.078349006,100,2500000
+"Young people (ages 15-24) newly infected with HIV",4362,0,9829.00045850527,500,66236.5108061967,100,1e+06
+"Adults (ages 15+) and children (ages 0-14) newly infected with HIV",4330,0,31194.3533487298,1400,212444.624741652,100,3200000
+"People using safely managed sanitation services (% of population)",4106,0,51.7954007365627,48.0182383987484,29.8098682795422,0,100
+"Low-birthweight babies (% of births)",3957,0,11.3116872682825,10.26015143,5.17933088167021,3.581594293,32.47047565
+"Antiretroviral therapy coverage (% of people living with HIV)",3788,0,32.3762575956389,29,25.9342692768524,0,95
+"People using safely managed drinking water services (% of population)",3713,0,67.3381550924128,75.3599136356142,30.5579141470017,1.43044680120711,100
+"People using safely managed sanitation services, urban (% of urban population)",3603,0,49.7895503378369,42.6594800572891,27.8146056495945,0,100
+"Incidence of malaria (per 1,000 population at risk)",3201,0,104.529140270093,15.4239048252625,142.680204381232,0,723.285952550705
+"Births attended by skilled health staff (% of total)",3143,0,88.5166841136797,98.6,20.2119726258512,5,100
+"Risk of catastrophic expenditure for surgical care (% of people at risk)",3075,0,28.2524188892236,19.3,27.5763577113961,0,100
+"Risk of impoverishing expenditure for surgical care (% of people at risk)",3075,0,32.1551062163185,24.4,31.2658496189047,0,100
+"Children (0-14) living with HIV",3045,0,39883.1001642036,2200,217387.627930188,100,2700000
+"Nurses and midwives (per 1,000 people)",2974,0,4.94684622677198,4.1575,4.06189989671562,0.048,23.07
+"International migrant stock, total",2969,0,4865876.53048164,201305,15823247.3243973,121,243192681
+"Children (ages 0-14) newly infected with HIV",2905,0,7417.94492254733,500,40751.3115365983,100,540000
+"Maternal mortality ratio (national estimate, per 100,000 live births)",2816,0,65.7954545454545,19,165.202011201699,0,2241
+"People using safely managed drinking water services, urban (% of urban population)",2791,0,66.5131780543759,73.1110134034673,26.1593525480412,6.411972189876,100
+"People using safely managed sanitation services, rural (% of rural population)",2695,0,37.9323737308038,31.7232662137503,27.2736710286322,0.260086597621478,100
+"Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV)",2275,0,38.536622676021,33.9841277565992,33.9860319098858,0,100
+"People using safely managed drinking water services, rural (% of rural population)",2141,0,39.5311969476255,36.2503142865623,29.0930049964466,0,100
+"People with basic handwashing facilities including soap and water (% of population)",1690,0,50.7449546887522,48.190811158388,30.7714977548825,1.15839757926285,98.2842647450298
+"People with basic handwashing facilities including soap and water, rural (% of rural population)",1635,0,45.2487458054962,38.4423384521133,30.7793166745776,1.19407747684818,98.7255509022698
+"People with basic handwashing facilities including soap and water, urban (% of urban population)",1630,0,59.5917529921702,62.4145683738776,28.4567895525393,1.2281813979871,98.6618888633066
+"Vitamin A supplementation coverage rate (% of children ages 6-59 months)",1562,0,58.5333062190777,65.2241574520102,31.9284080468258,0,99
+"International migrant stock (% of population)",1558,0,9.80886592471169,3.66418332304912,14.713378520206,0.0325964938683881,88.4040483728066
+"Prevalence of current tobacco use (% of adults)",1470,0,23.6404848475106,23.7284782461309,10.4912384433879,3.5,68.5
+"Prevalence of current tobacco use, females (% of female adults)",1470,0,12.3299392741646,8.7106243390838,10.6081916866589,0,69.4
+"Prevalence of current tobacco use, males (% of male adults)",1470,0,35.0012580671459,34.8260028847164,14.1920169641088,6.6,86.7
+"UHC service coverage index",1428,0,59.5518207282913,63,18.9143528492082,11,91
+"Contraceptive prevalence, any method (% of married women ages 15-49)",1357,0,46.4748561917386,49.7,22.6125420126502,0.8,87.7
+"Prevalence of underweight, weight for age (% of children under 5)",1346,0,14.7163893016345,12.8,11.8577596776955,0,66.8
+"Contraceptive prevalence, any modern method (% of married women ages 15-49)",1295,0,37.4030289576824,37.2,21.082024682731,0.3,86.2
+"Prevalence of wasting, weight for height (% of children under 5)",1071,0,6.5684593837535,5.6,4.81190553876559,0,25.3
+"Pregnant women receiving prenatal care (%)",1061,0,84.0931463965985,90.4,17.4375099838798,15.4,100
+"Diarrhea treatment (% of children under 5 who received ORS packet)",1059,0,33.4021704738116,31,19.3311373107034,0,98
+"Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%)",1049,0,8.71530981887512,7.76,6.1350720679484,0,44.82
+"Proportion of population spending more than 25% of household consumption or income on out-of-pocket health care expenditure (%)",1048,0,1.7749427480916,1.18,1.86057297676729,0,15.19
+"Prevalence of stunting, height for age (% of children under 5)",1032,0,27.3914728682171,27.25,15.8258859564247,0,73.6
+"Prevalence of moderate or severe food insecurity in the population (%)",1021,0,29.0856023506366,22.3,23.0094187525021,2,89.2
+"Prevalence of severe food insecurity in the population (%)",1013,0,9.51559723593287,4.9,11.6955987111868,0,65.4
+"Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%)",983,0,1.66980671414039,1.49,1.01614425547684,0,6.94
+"Proportion of population pushed further below the 60% median consumption poverty line by out-of-pocket health care expenditure (%)",980,0,11.463387755102,11.285,4.59927499645392,0.11,28.34
+"Proportion of population pushed or further pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%)",980,0,13.1316428571429,13.095,4.88208848783636,0.11,29.45
+"Prevalence of overweight, weight for height (% of children under 5)",952,0,6.21680672268908,5.3,4.47585778776722,0,29.6
+"Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)",926,0,1.0060475161987,0.45,1.27734832342685,0,6.99
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",924,0,24.7847165789389,15.0904939468262,21.6618593934118,1.20853070612295,78.6371093809819
+"Cause of death, by injury (% of total)",924,0,8.89153604304775,8.32129296748431,4.52060026900843,2.37438662942997,73.4287751345649
+"Cause of death, by non-communicable diseases (% of total)",924,0,66.3237473980642,73.3439822285694,22.442625839995,16.0093864697526,96.131870575848
+"Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)",924,0,0.675887445887446,0.11,1.12603195587398,0,9.37
+"Proportion of population pushed further below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)",923,0,13.8345612134345,3.52,19.9488583904358,0,89.48
+"Proportion of population pushed or further pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)",923,0,14.8369880823402,3.97,20.5648382239885,0,90.65
+"Proportion of population pushed further below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)",921,0,6.25674267100977,0.4,12.2312172964177,0,71.01
+"Proportion of population pushed or further pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)",921,0,6.92885993485342,0.59,12.928137458867,0,73.88
+"Prevalence of severe wasting, weight for height (% of children under 5)",893,0,1.90305711086226,1.4,1.68865860544639,0,12.9
+"Prevalence of stunting, height for age, female (% of children under 5)",847,0,24.9184179456907,25.6,14.4337343187075,0,61.3
+"Prevalence of stunting, height for age, male (% of children under 5)",847,0,28.1570247933884,29.1,15.4258247938419,0,66.8
+"Prevalence of overweight, weight for height, female (% of children under 5)",837,0,5.81887694145759,4.8,4.3643567386289,0,29.1
+"Prevalence of overweight, weight for height, male (% of children under 5)",837,0,6.58028673835125,5.6,4.73533049972293,0,30.1
+"Exclusive breastfeeding (% of children under 6 months)",790,0,35.3234534079681,34.14392348505,20.0641321150649,0.1060219,99
+"Prevalence of underweight, weight for age, female (% of children under 5)",752,0,13.3938829787234,11.4,10.5250200832081,0.3,54.2
+"Prevalence of underweight, weight for age, male (% of children under 5)",752,0,15.1132978723404,13.4,11.2436049005715,0.1,52.9
+"Prevalence of wasting, weight for height, female (% of children under 5)",751,0,5.75059920106525,5,4.13295007314945,0,22.9
+"Prevalence of wasting, weight for height, male (% of children under 5)",751,0,6.8387483355526,5.8,4.8730691798134,0.2,26.4
+"Prevalence of severe wasting, weight for height, female (% of children under 5)",746,0,1.69651474530831,1.2,1.51594254390679,0,12.4
+"Prevalence of severe wasting, weight for height, male (% of children under 5)",746,0,2.13967828418231,1.65,1.83155983794802,0,13.4
+"Unmet need for contraception (% of married women ages 15-49)",736,0,19.6247162731137,19.3,9.01529829524881,1.7,55.9
+"Completeness of death registration with cause-of-death information (%)",672,0,86.5270291168,96,20.7344166434956,0,100
+"Completeness of birth registration (%)",654,0,80.777782448803,94,24.9633861543367,2.7,100
+"Diabetes prevalence (% of population ages 20 to 79)",531,0,8.65114963639171,7.8,4.55306757214186,0,30.8
+"Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding)",475,0,44.5269793826793,44.8,14.4437987148162,6.8,82.5
+"ARI treatment (% of children under 5 taken to a health provider)",441,0,57.4732851377054,59,18.6389545706432,12,97.5
+"Consumption of iodized salt (% of households)",426,0,73.0111701267394,79.9063931804796,22.3901905062091,2,99.7
+"Women who were first married by age 18 (% of women ages 20-24)",416,0,28.8745192307692,26.85,17.0695339045948,0,83.5
+"Women who were first married by age 15 (% of women ages 20-24)",413,0,7.71985472154964,5.7,7.98246822780831,0,50.3
+"Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)",368,0,19.7060624503332,18.65,10.4055564611059,1.6,50.6
+"Completeness of birth registration, rural (%)",362,0,68.5371270718232,75,28.983943716918,1.5,100
+"Completeness of birth registration, urban (%)",362,0,78.7029005524862,87.6,23.18570993744,5.3,100
+"Specialist surgical workforce (per 100,000 population)",343,0,41.5251127605379,31.93,40.3249637334754,0.03,195.6
+"Female headed households (% of households with a female head)",331,0,23.9344410876133,24.3,9.26944595964568,1.7,49.4
+"Wanted fertility rate (births per woman)",323,0,3.49577013018312,3.4,1.36311558791267,1.1,7.4
+"Children with fever receiving antimalarial drugs (% of children under age 5 with fever)",321,0,28.4348881847289,27.8578142761153,20.8856290555579,0,76.9
+"Use of insecticide-treated bed nets (% of under-5 population)",306,0,32.0317535870951,33.15,23.6172128621721,0,95.5
+"Demand for family planning satisfied by modern methods (% of married women with demand for family planning)",287,0,45.8381626018391,45.4,21.2580296715828,5.4,86.4
+"Completeness of birth registration, female (%)",258,0,75.0146124031008,85.4,27.6903623129832,2.6,100
+"Completeness of birth registration, male (%)",258,0,75.3644573643411,85.25,27.5521954306858,2.7,100
+"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",231,0,102.036855688006,90.8,73.9150929775069,7.4,305.1
+"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",231,0,87.6497314895924,74.3,65.9284938102097,5.1,265
+"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",231,0,119.470321140628,105.7,85.1507834977345,9.4,364.9
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",231,0,17.5876201420532,6.74191847414443,20.8306806477792,0.4,108.1
+"Community health workers (per 1,000 people)",214,0,0.447850448803643,0.382,0.44291790102646,0,3.654
+"Women who believe a husband is justified in beating his wife (any of five reasons) (%)",190,0,40.5063157894737,40.25,22.213170270016,0.8,92.1
+"Women who believe a husband is justified in beating his wife when she neglects the children (%)",190,0,30.2168421052632,29.4,17.9143562342359,0.7,81
+"Women who believe a husband is justified in beating his wife when she goes out without telling him (%)",188,0,26.761170212766,24.25,18.8426763518141,0.3,82.7
+"Women who believe a husband is justified in beating his wife when she argues with him (%)",187,0,23.8887700534759,20.7,17.9474721041909,0.4,77.6
+"Women who believe a husband is justified in beating his wife when she burns the food (%)",185,0,13.812972972973,10.6,12.5222126258972,0.1,64.5
+"Women who believe a husband is justified in beating his wife when she refuses sex with him (%)",185,0,19.6097297297297,14.2,16.4756840734285,0.2,73.5
+"Number of surgical procedures (per 100,000 population)",181,0,5730.1455103264,3746,5890.37304489824,43,28907
+"Condom use, population ages 15-24, female (% of females ages 15-24)",173,0,15.0889724329168,12.1,13.0711161079293,0,66
+"Condom use, population ages 15-24, male (% of males ages 15-24)",144,0,39.7125529285913,38.65,16.8349076657719,7.5,79.2
+"Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of ever-partnered women ages 15-49)",106,0,15.3194339622642,11,10.7780473388483,2,46.1
+"Female genital mutilation prevalence (%)",91,0,46.8428571428571,36.7,34.7767327800807,0.3,99.2
